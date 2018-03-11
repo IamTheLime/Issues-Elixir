@@ -45,7 +45,7 @@ defmodule Platform.Mixfile do
       {:bcrypt_elixir,"~>1.0"}
     ]
   end
-
+  
   # Aliases are shortcuts or tasks specific to the current project.
   # For example, to create, migrate and run the seeds file at once:
   #
